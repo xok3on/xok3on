@@ -1,6 +1,6 @@
 # 🏠 xok3on
 
-[![Telegram](https://img.shields.io/badge/Telegram-@ruhvhkm-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ruhvhkm)
+[![Telegram](https://img.shields.io/badge/Telegram-@ruhvhkm-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/pythondevlogs)
 [![Discord](https://img.shields.io/badge/Discord-euhvhmc-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/euhvhmc)
 
 ---
