@@ -17,8 +17,8 @@
 |--------|----------|
 | [MusicAvatarDownloader](https://github.com/xok3on/MusicAvatarDownloader) | Поиск и скачивание обложек треков через iTunes API |
 | [DiscordActivityTracker](https://github.com/xok3on/DiscordActivityTracker) | Автообновление статуса в Discord по активности на ПК |
-| [TDATAstealler](https://github.com/xok3on/TDATAstealler) | (Educational) Инструмент для работы с сессиями Telegram |
-| [VkMusic](https://github.com/xok3on/VkMusic) | Работа с музыкой ВКонтакте |
+| [TDATAstealler](https://github.com/xok3on/TDATAstealler) | Стиллак написанный на коленке |
+| [VkMusic](https://github.com/xok3on/VkMusic) | Работа с музыкой ВКонтакте, в разработке |
 
 ---
 
